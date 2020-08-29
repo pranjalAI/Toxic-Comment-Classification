@@ -1,0 +1,2 @@
+--Here, I have used GloVe word embedding for encoding. As the size is 365 MB I am not attaching it here. File mentioned can be find in Notebook
+--Model.h5 file is of 47 MB, if required i will share later otherwise it can be generate via code. :)
